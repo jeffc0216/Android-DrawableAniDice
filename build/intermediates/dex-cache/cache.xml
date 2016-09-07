@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/jeffchen/Documents/Android/AP102Sample/AndroidStudioProjects/DrawableAniEx/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/jeffchen/Documents/Android/AP102Sample/AndroidStudioProjects/DrawableAniEx/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.1_29db18e852a3636c02cd70fc79bd05ef3270ee29/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jeffchen/Documents/Android/AP102Sample/AndroidStudioProjects/DrawableAniEx/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/jeffchen/Documents/Android/AP102Sample/AndroidStudioProjects/DrawableAniEx/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_0079e8f0ae2b2a618aa186f92728086399e202c4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jeffchen/Documents/Android/AP102Sample/AndroidStudioProjects/DrawableAniEx/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="459b71a8e47d2275b56e751b459957347bcc3fce">
+        <dex dex="/Users/jeffchen/Documents/Android/AP102Sample/AndroidStudioProjects/DrawableAniEx/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e902a0f874bc273b1c67b1de6e8d1fb88f83efbe/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jeffchen/Documents/Android/AP102Sample/AndroidStudioProjects/DrawableAniEx/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/jeffchen/Documents/Android/AP102Sample/AndroidStudioProjects/DrawableAniEx/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.1_9603d37d7b9da00a5a764340a7df31153f02d038/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jeffchen/Documents/Android/AP102Sample/AndroidStudioProjects/DrawableAniEx/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="372a210c72e95f307f46f500b86c51ec9f3b52d5">
+        <dex dex="/Users/jeffchen/Documents/Android/AP102Sample/AndroidStudioProjects/DrawableAniEx/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5bd8fd24185719bf30320f9cc9472c6c2fa9d0c1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jeffchen/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/jeffchen/Documents/Android/AP102Sample/AndroidStudioProjects/DrawableAniEx/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_c4d05bc5012f86a72e8e34af0bad92595a53d7dd/classes.dex" />
+    </item>
+
+</items>

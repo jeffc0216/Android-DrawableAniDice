@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DrawableAniEx</string>
+    <string name="btn_roll_dice">擲骰子</string>
+    <string name="dice_result">點數：</string>
+</resources>
